@@ -1,3 +1,12 @@
+```markdown
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-green)
+![Plotly](https://img.shields.io/badge/Plotly-5.0-purple)
+![SQLite](https://img.shields.io/badge/SQLite-3-blue)
+```
+
+
 # The Echo Terrain
 
 The Echo Terrain is a private journaling atlas that turns daily thoughts into an emotional terrain, an explorer's note, and a planetary-cycle reflection.
